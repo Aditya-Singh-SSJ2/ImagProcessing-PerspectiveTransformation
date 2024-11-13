@@ -10,7 +10,7 @@ In image processing, there are two main types of transformations:
 **Perspective Transformation** is a type of geometrical transformation where the pixel coordinates are modified to simulate a change in viewpoint, making it appear as though the image was viewed from a different angle.
 
 ## YouTube Tutorial
-This GitHub repository complements the YouTube video tutorial: [Perspective Transformation in OpenCV](https://youtu.be/y1EgAzQLB_o).
+This GitHub repository complements the YouTube video tutorial: [Perspective Transformation in OpenCV](https://www.youtube.com/watch?v=YGSAhRA1GTw).
 
 ## Resources
 For more tutorials, robotics projects, and insights, visit my official channels:
